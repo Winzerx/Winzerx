@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Winzerx — Java, Minecraft and developer tools">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#19132e"/></linearGradient><linearGradient id="accent"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#67e8f9"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 H 0 V 40" fill="none" stroke="#a78bfa" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="300" rx="24" fill="url(#bg)"/><rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+<circle cx="1080" cy="60" r="155" fill="#8b5cf6" opacity=".06"/><circle cx="1100" cy="240" r="180" fill="#67e8f9" opacity=".04"/>
+<rect x="64" y="60" width="42" height="4" rx="2" fill="url(#accent)"/>
+<text x="64" y="103" font-family="monospace" font-size="14" letter-spacing="4" fill="#a78bfa">CODE / CREATE / ITERATE</text>
+<text x="60" y="183" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="76" letter-spacing="-3" fill="#f0f6fc">Winzerx<tspan fill="#a78bfa">.</tspan></text>
+<text x="64" y="232" font-family="Segoe UI,Arial,sans-serif" font-size="21" fill="#a5adba">Java · Minecraft · Developer tools</text>
+<text x="935" y="185" font-family="monospace" font-size="96" fill="url(#accent)" opacity=".7">&lt;/&gt;</text>
+</svg>
