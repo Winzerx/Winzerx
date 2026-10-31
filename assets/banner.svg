@@ -1,10 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Winzerx — Java, Minecraft and developer tools">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#19132e"/></linearGradient><linearGradient id="accent"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#67e8f9"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 H 0 V 40" fill="none" stroke="#a78bfa" stroke-opacity=".07"/></pattern></defs>
-<rect width="1200" height="300" rx="24" fill="url(#bg)"/><rect width="1200" height="300" rx="24" fill="url(#grid)"/>
-<circle cx="1080" cy="60" r="155" fill="#8b5cf6" opacity=".06"/><circle cx="1100" cy="240" r="180" fill="#67e8f9" opacity=".04"/>
-<rect x="64" y="60" width="42" height="4" rx="2" fill="url(#accent)"/>
-<text x="64" y="103" font-family="monospace" font-size="14" letter-spacing="4" fill="#a78bfa">CODE / CREATE / ITERATE</text>
-<text x="60" y="183" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="76" letter-spacing="-3" fill="#f0f6fc">Winzerx<tspan fill="#a78bfa">.</tspan></text>
-<text x="64" y="232" font-family="Segoe UI,Arial,sans-serif" font-size="21" fill="#a5adba">Java · Minecraft · Developer tools</text>
-<text x="935" y="185" font-family="monospace" font-size="96" fill="url(#accent)" opacity=".7">&lt;/&gt;</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Winzerx — Halloween edition</title>
+  <desc id="desc">Minimal charcoal banner with warm orange typography, a crescent moon, bats and a small outlined jack-o-lantern. Java, Minecraft and developer tools.</desc>
+  <rect width="1200" height="280" rx="18" fill="#111216"/>
+  <rect x=".5" y=".5" width="1199" height="279" rx="17.5" fill="none" stroke="#29282a"/>
+  <path d="M52 58h24" stroke="#f59b58" stroke-width="3" stroke-linecap="round"/>
+  <text x="89" y="63" font-family="Consolas,monospace" font-size="13" letter-spacing="3" fill="#b5a89d">HALLOWEEN EDITION</text>
+  <text x="52" y="157" font-family="Segoe UI,Arial,sans-serif" font-size="76" font-weight="600" letter-spacing="-3" fill="#f4eee7">Winzerx<tspan fill="#f59b58">.</tspan></text>
+  <text x="56" y="205" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#aaa5a2">Java · Minecraft · Developer tools</text>
+  <path d="M56 242h1088" stroke="#302a27"/>
+  <text x="1144" y="61" text-anchor="end" font-family="Consolas,monospace" font-size="12" letter-spacing="2" fill="#b5a89d">31 / OCT</text>
+  <g fill="none" stroke="#f59b58" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M972 128c-27-15-54 3-54 34 0 30 24 49 54 43 30 6 54-13 54-43 0-31-27-49-54-34z"/>
+    <path d="M972 129c-10-6-20 12-20 37s10 42 20 39m0-76c10-6 20 12 20 37s-10 42-20 39" opacity=".3"/>
+    <path d="M972 128c-3-11 1-19 9-23m-8 16c10 1 17-3 20-9-10-2-17 1-20 9" stroke="#b5a89d"/>
+    <path d="m940 158 13-9 5 14zm46 5 5-14 13 9z" fill="#f59b58" stroke="none"/>
+    <path d="m947 178 10 7 8-4 7 7 7-7 8 4 10-7"/>
+  </g>
+  <path d="M1067 94a22 22 0 1 1-23-29 20 20 0 0 0 23 29z" fill="#e9d6bb"/>
+  <path d="M896 83q8-10 16-2l4-5 4 5q8-8 16 2-12-2-20 9-8-11-20-9z" fill="#81746c"/>
+  <path d="M1082 151q6-8 12-2l3-4 3 4q6-6 12 2-9-1-15 7-6-8-15-7z" fill="#81746c" opacity=".65"/>
 </svg>
