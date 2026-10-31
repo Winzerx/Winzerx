@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Winzerx — Halloween edition. Java, Minecraft и инструменты разработчика." />
+  <img src="./assets/halloween.svg" width="100%" alt="Winzerx — Halloween edition. Java, Minecraft и инструменты разработчика." />
 </p>
 
 ### Привет, я Winzerx
